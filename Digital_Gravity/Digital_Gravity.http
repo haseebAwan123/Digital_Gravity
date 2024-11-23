@@ -1,0 +1,6 @@
+@Digital_Gravity_HostAddress = http://localhost:5096
+
+GET {{Digital_Gravity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
